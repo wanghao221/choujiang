@@ -1,42 +1,52 @@
 var member = [
-  {
-    "phone": "No.1",
-    "name": "星野冥一"
-  },
-  {
-    "phone": "No.2",
-    "name": "一般人类"
-  },
-  {
-    "phone": "No.3",
-    "name": "萝莉捕捉者"
-  },
-  {
-    "phone": "No.4",
-    "name": "四代猫愿"
-  },
-  {
-    "phone": "No.5",
-    "name": "人形大魔王"
-  },
-  {
-    "phone": "No.6",
-    "name": "痴言心醉"
-  },
-  {
-    "phone": "No.7",
-    "name": "渣瓜一隻"
-  },
-  {
-    "phone": "No.8",
-    "name": "住之江圭太"
-  },
-  {
-    "phone": "No.9",
-    "name": "九条鱼卡"
-  },
-  {
-    "phone": "No.10",
-    "name": "nightor"
-  }
+  {"phone": "No.1", "name": "太阳之子"},
+  {"phone": "No.2", "name": "樱花树下"},
+  {"phone": "No.3", "name": "星辰之舞"},
+  {"phone": "No.4", "name": "机械狂热者"},
+  {"phone": "No.5", "name": "火焰舞者"},
+  {"phone": "No.6", "name": "未知边境探险家"},
+  {"phone": "No.7", "name": "电子演奏者"},
+  {"phone": "No.8", "name": "雪花飘舞者"},
+  {"phone": "No.9", "name": "神秘符文使者"},
+  {"phone": "No.10", "name": "时光漫步者"},
+  {"phone": "No.11", "name": "流星追逐者"},
+  {"phone": "No.12", "name": "深海漫游者"},
+  {"phone": "No.13", "name": "风暴驾驶者"},
+  {"phone": "No.14", "name": "黎明启示者"},
+  {"phone": "No.15", "name": "暗夜行者"},
+  {"phone": "No.16", "name": "极光舞者"},
+  {"phone": "No.17", "name": "电子演奏者"},
+  {"phone": "No.18", "name": "未来探险家"},
+  {"phone": "No.19", "name": "机械狂热者"},
+  {"phone": "No.20", "name": "古老卷轴守护者"},
+  {"phone": "No.21", "name": "星辰祭司"},
+  {"phone": "No.22", "name": "梦幻舞台主"},
+  {"phone": "No.23", "name": "时光旅者"},
+  {"phone": "No.24", "name": "虚拟世界冒险者"},
+  {"phone": "No.25", "name": "未知边境探险家"},
+  {"phone": "No.26", "name": "神秘符文使者"},
+  {"phone": "No.27", "name": "电光之翼"},
+  {"phone": "No.28", "name": "太阳之子"},
+  {"phone": "No.29", "name": "樱花树下"},
+  {"phone": "No.30", "name": "星辰之舞"},
+  {"phone": "No.31", "name": "机械狂热者"},
+  {"phone": "No.32", "name": "火焰舞者"},
+  {"phone": "No.33", "name": "未知边境探险家"},
+  {"phone": "No.34", "name": "电子演奏者"},
+  {"phone": "No.35", "name": "雪花飘舞者"},
+  {"phone": "No.36", "name": "神秘符文使者"},
+  {"phone": "No.37", "name": "时光漫步者"},
+  {"phone": "No.38", "name": "月光下的小丑"},
+  {"phone": "No.39", "name": "樱花树下"},
+  {"phone": "No.40", "name": "追风少年"},
+  {"phone": "No.41", "name": "枫叶之舞"},
+  {"phone": "No.42", "name": "星河之主"},
+  {"phone": "No.43", "name": "音梦之魂"},
+  {"phone": "No.44", "name": "幻想之旅"},
+  {"phone": "No.45", "name": "奇迹探寻者"},
+  {"phone": "No.46", "name": "彩虹漫步者"},
+  {"phone": "No.47", "name": "夜空中的思念"},
+  {"phone": "No.48", "name": "旋律编织者"},
+  {"phone": "No.49", "name": "梦幻舞者"},
+  {"phone": "No.50", "name": "冰雪之心"}
 ]
